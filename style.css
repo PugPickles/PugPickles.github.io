@@ -4,3 +4,12 @@ body {
         background-attachment: fixed !important;
         background-position: center !important;
     }
+
+#login .logo,
+#login .case {
+    display: none !important;
+}
+
+h1, h2 {
+    text-align: center !important;
+  }
